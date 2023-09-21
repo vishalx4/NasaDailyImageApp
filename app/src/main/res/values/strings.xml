@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NasaPictureOfTheDay</string>
+    <string name="str_timeout_please_retry">Timeout please retry</string>
+    <string name="str_select_the_date">Select the date</string>
+    <string name="str_date">Date : %1$s</string>
+    <string name="retry">Retry</string>
+</resources>
